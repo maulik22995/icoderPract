@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaulikPract</string>
+    <string name="hint_enter_count">Enter Count</string>
+    <string name="add">Add</string>
+    <string name="is_valid">Is Valid</string>
+    <string name="enter_valid_number">Please enter number</string>
+
+</resources>
